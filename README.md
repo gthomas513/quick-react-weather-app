@@ -1,13 +1,29 @@
 # Quick Weather App
 
-This is a small weather app created with React framework, utilizing Javascript and CSS.
+This is a small weather app used to simply display the date and weather. It was created with the following technologies:
 
-To launch the app, run:
+- [React.js]
+- [Javascript]
+- [CSS]
+- [HTML]
 
-### `npm start`
+## To Launch This Project Locally, Follow These Steps:
 
-This will run the app in the development mode.
-If your browser does not open automatically, head to [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Clone and install:
+
+```
+git clone https://github.com/gthomas513/quick-react-weather-app
+cd quick-react-weather-app
+npm i
+```
+
+Start your development server:
+
+```
+npm start
+```
+
+The app should open in a browser automatically. If it doesn't, visit [http://localhost:3000](http://localhost.com:3000).
 
 ## Usage
 
