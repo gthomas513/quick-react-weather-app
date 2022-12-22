@@ -15,4 +15,4 @@ Just type in the name of your town or city, and the app will display the weather
 
 ## Questions
 
-Please feel free to shoot me an email at [gabe.thomas513@gmail.com][mailto:gabe.thomas513@gmail.com]
+Please feel free to shoot me an email at [gabe.thomas513@gmail.com](mailto:gabe.thomas513@gmail.com).
